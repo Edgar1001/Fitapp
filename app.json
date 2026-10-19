@@ -15,7 +15,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/fitapp.png",
-        "backgroundColor": "#FF69B4"
+        "backgroundColor": "#2563EB"
       },
       "permissions": [
         "ACCESS_FINE_LOCATION",
@@ -64,7 +64,6 @@
     }
   }
 }
-
 
 
 
